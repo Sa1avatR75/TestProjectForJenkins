@@ -23,6 +23,10 @@ public class ReverseStringTests {
     }
 
 
+    @Test
+    public void reverseString3(){
+        Assert.assertEquals("elppa", ReverseString.reverseString("apple"));
+    }
 
 
 }
