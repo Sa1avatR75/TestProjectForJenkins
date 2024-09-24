@@ -19,7 +19,7 @@ public class ReverseStringTests {
 
     @Test
     public void reverseString2(){
-        Assert.assertEquals("elp3pa", ReverseString.reverseString("apple"));
+        Assert.assertEquals("elppa", ReverseString.reverseString("apple"));
     }
 
 
